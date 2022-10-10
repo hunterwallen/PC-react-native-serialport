@@ -18,8 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/melihyarikkaya/react-native-serialport.git"
+    "url": "https://github.com/hunterwallen/PC-react-native-serialport"
   },
-  "homepage": "https://github.com/melihyarikkaya/react-native-serialport.git",
+  "homepage": "https://github.com/hunterwallen/PC-react-native-serialport",
   "types": "./types/index.d.ts"
 }
