@@ -11,7 +11,7 @@
     "android serialport",
     "react native usb serialport communication"
   ],
-  "author": "Melih YARIKKAYA",
+  "author": "Melih YARIKKAYA and Hunter Wallen",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.59.0"
